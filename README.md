@@ -6,11 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-In the project directory, you can run:
-
-### `npm start`
-
-
+In the project directory, you can run
 
 
 The page will reload when you make changes.\
